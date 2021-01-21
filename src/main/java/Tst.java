@@ -12,7 +12,7 @@ public class Tst {
 
 
     private void increaseByAdding() {
-        value += 11;
+        value += 22;
     }
 
     private void increaseByTiming() {
