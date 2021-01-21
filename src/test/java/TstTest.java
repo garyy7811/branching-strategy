@@ -13,6 +13,6 @@ public class TstTest extends TestCase {
 
     public void testProcessed() {
         inst.process();
-        Assert.assertEquals("110", 110, inst.getValue());
+        Assert.assertEquals("220", 220, inst.getValue());
     }
 }

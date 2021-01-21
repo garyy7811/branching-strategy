@@ -16,7 +16,7 @@ public class Tst {
     }
 
     private void increaseByTiming() {
-        value *= 10;
+        value *= 20;
     }
 
     public void process() {
